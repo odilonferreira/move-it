@@ -1,6 +1,6 @@
 # Move-it!
 
-Move-it is a application that will usefful for users of pomodoro technique. More details about this technique read [this](https://en.wikipedia.org/wiki/Pomodoro_Technique).
+Move-it is an application that will be useful for users of pomodoro technique. More details about this technique read [this](https://en.wikipedia.org/wiki/Pomodoro_Technique).
 
 The application contains a countdown that starts in 25 minutes.
 
